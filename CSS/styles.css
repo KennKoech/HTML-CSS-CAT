@@ -1,0 +1,95 @@
+.header {
+	background: url(../Cat_Images/Background.jpg);
+	background-size: contain;
+	height: 500px;
+}
+
+.navigation a {
+	color: white;
+	text-decoration: none;
+	text-transform: uppercase;
+	padding-right: 1em;
+}
+.navigation li {
+	list-style: none;
+	display: inline;
+}
+
+.navigation {
+	float: left;
+}
+
+.navigation a:hover {
+	font-weight: bold;
+	color: black;
+}
+
+.body {
+	width: 80%;
+	padding-left: 4em;
+}
+
+.content {
+	text-align: center;
+}
+
+.box {
+	width: 30%;
+	float: left;
+	text-align: left;
+	padding-right: 1em;
+}
+
+span {
+	color: #800517;
+	font-weight: bold;
+}
+
+body {
+	background: url(../Cat_Images/Lobby.jpg);
+	background-size: cover;
+	padding: 0 5em 0 5em;
+}
+
+.branding {
+	font-size: 20px;
+	padding-top: 10px;
+	color: black;
+	font-weight: bold;
+	text-align: center;
+}
+
+.more a {
+	padding-left: 80%;
+	font-weight: bold;
+	font-size: 10px;
+	text-decoration: none;
+	color: black;
+	text-transform: uppercase;
+}
+
+.clear {
+	clear: both;
+}
+
+.footer li {
+	float: left;
+	list-style: none;
+}
+
+ img {
+ 	width: 200px;
+	height: 100px;
+	padding-right: 3em;
+ }
+
+form {
+	font-size: 12px;
+	color: white;
+	font-weight: bold;
+}
+
+.comments {
+	padding: 0 5em 0 2em;
+}
+
